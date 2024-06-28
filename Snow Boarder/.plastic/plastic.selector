@@ -1,0 +1,4 @@
+repository "Snow Boarder@elitokkojo@cloud"
+  path "/"
+    br "/main"
+    co "/main"
